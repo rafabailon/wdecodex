@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-25T10:00:01Z","level":"INFO","service":"auth","message":"User alice logged in","user":"alice"}
+{"timestamp":"2026-10-25T10:00:02Z","level":"WARN","service":"auth","message":"Failed login attempt","user":"bob"}
+{"timestamp":"2026-10-25T10:00:03Z","level":"ERROR","service":"db","message":"Connection failed","error_code":500}
+{"timestamp":"2026-10-25T10:00:04Z","level":"INFO","service":"api","message":"Health check completed","status":200}

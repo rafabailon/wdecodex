@@ -1,0 +1,3 @@
+time=2026-10-25T10:00:01Z level=INFO service=auth user=alice action=login status=success msg="User alice logged in"
+time=2026-10-25T10:00:02Z level=WARN service=auth user=bob action=login status=failure msg="Failed login attempt"
+time=2026-10-25T10:00:03Z level=ERROR service=db action=query status=failure msg="Connection timed out"

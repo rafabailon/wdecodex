@@ -1,0 +1,4 @@
+Oct 25 10:00:01 web01 payment-api[1842]: INFO User alice logged in
+Oct 25 10:00:02 web01 payment-api[1842]: WARN Failed login attempt for bob
+Oct 25 10:00:03 web01 payment-api[1842]: ERROR Database connection failed
+Oct 25 10:00:04 web01 payment-api[1842]: INFO Health check completed
